@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="secondlab:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/secondlab.jar</output-path>
+    <root id="archive" name="secondlab.jar">
+      <element id="module-output" name="secondlab" />
+    </root>
+  </artifact>
+</component>
