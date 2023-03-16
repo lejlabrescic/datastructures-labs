@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lab1;
 public class CircularLinkedList<Item> {
     Node2<Item> head;
     Item data;

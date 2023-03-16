@@ -1,6 +1,6 @@
 
 import static org.junit.jupiter.api.Assertions.*;
-import org.example.Stack;
+import org.example.lab1.Stack;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;

@@ -1,6 +1,4 @@
-package org.example;
-
-import java.sql.SQLOutput;
+package org.example.lab1;
 
 public class LinkedList <Item> {
     private Node<Item> head;

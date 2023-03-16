@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lab1;
 /**
  * Stack implementation (using linked lists).
  *

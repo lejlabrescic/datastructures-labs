@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lab1;
 
 public class Queue <Item>{
     Node<Item> head;

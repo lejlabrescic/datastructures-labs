@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lab1;
 
 public class CircularLinkedListImplementation {
     public static void main(String [] args) {

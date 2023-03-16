@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lab1;
 
 public class LinkedListImplementation {
     public static void main(String [] args) {
