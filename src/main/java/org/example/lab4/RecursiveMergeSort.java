@@ -1,9 +1,8 @@
 package org.example.lab4;
-import org.example.lab3.AbstractSort;
 
 import static org.example.lab3.AbstractSort.less;
 
-public class MergeSort {
+public class RecursiveMergeSort {
     public static void sort(int[] elements) {
         int[] aux = new int [elements.length];
         sort(elements, aux, 0, elements.length-1);
