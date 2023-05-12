@@ -1,1 +1,1 @@
-# datastructures-labs
+# Data Structures & Algorithms 
